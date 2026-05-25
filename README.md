@@ -4,4 +4,4 @@ M
 M
 N
 NM
-MN
+MNM
