@@ -6,3 +6,4 @@ N
 NM
 MNM
 N
+M
