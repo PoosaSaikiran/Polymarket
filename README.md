@@ -6,4 +6,4 @@ N
 NM
 MNM
 NM
-M
+MM
