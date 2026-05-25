@@ -3,5 +3,5 @@
 M
 M
 N
-N
+NM
 MN
