@@ -3,7 +3,3 @@
 M
 M
 N
-NM
-MNMM
-NM
-MM
