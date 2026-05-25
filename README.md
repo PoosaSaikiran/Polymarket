@@ -4,6 +4,6 @@ M
 M
 N
 NM
-MNM
+MNMM
 NM
 MM
