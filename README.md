@@ -5,5 +5,5 @@ M
 N
 NM
 MNM
-N
+NM
 M
