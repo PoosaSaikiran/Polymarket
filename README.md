@@ -6,6 +6,6 @@ d
 dg
 dggg
 d
-gg
+ggg
 gg
 g
